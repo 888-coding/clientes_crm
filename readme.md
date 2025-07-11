@@ -4,3 +4,8 @@
 
 * sqlite database
 
+
+## 客戶表
+* primary key integer 
+* 名字
+* 姓名
